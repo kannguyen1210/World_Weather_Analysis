@@ -131,3 +131,6 @@ dmypy.json
 # Adding config.py file.
 config.py
 API_practice.ipynb
+
+# Adding DS_Store
+.DS_Store
